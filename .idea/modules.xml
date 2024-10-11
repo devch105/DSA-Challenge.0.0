@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysInJava/ArraysInJava.iml" filepath="$PROJECT_DIR$/ArraysInJava/ArraysInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binarysearch/Binarysearch.iml" filepath="$PROJECT_DIR$/Binarysearch/Binarysearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest Leetcode/Contest Leetcode.iml" filepath="$PROJECT_DIR$/Contest Leetcode/Contest Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashtable/Hashtable.iml" filepath="$PROJECT_DIR$/Hashtable/Hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lets-Begin/Lets-Begin.iml" filepath="$PROJECT_DIR$/Lets-Begin/Lets-Begin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POTDs/POTDs.iml" filepath="$PROJECT_DIR$/POTDs/POTDs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursions/Recursions.iml" filepath="$PROJECT_DIR$/Recursions/Recursions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ShashCode-DSA.iml" filepath="$PROJECT_DIR$/.idea/ShashCode-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringsinjava.iml" filepath="$PROJECT_DIR$/Stringsinjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringwork/Stringwork.iml" filepath="$PROJECT_DIR$/Stringwork/Stringwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/courseModule/courseModule.iml" filepath="$PROJECT_DIR$/courseModule/courseModule.iml" />
+    </modules>
+  </component>
+</project>
