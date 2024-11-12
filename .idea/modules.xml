@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Binarysearch/Binarysearch.iml" filepath="$PROJECT_DIR$/Binarysearch/Binarysearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Contest Leetcode/Contest Leetcode.iml" filepath="$PROJECT_DIR$/Contest Leetcode/Contest Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashtable/Hashtable.iml" filepath="$PROJECT_DIR$/Hashtable/Hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewBits/InterviewBits.iml" filepath="$PROJECT_DIR$/InterviewBits/InterviewBits.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lets-Begin/Lets-Begin.iml" filepath="$PROJECT_DIR$/Lets-Begin/Lets-Begin.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/LinearSearch/LinearSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/POTDs/POTDs.iml" filepath="$PROJECT_DIR$/POTDs/POTDs.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Stringsinjava.iml" filepath="$PROJECT_DIR$/Stringsinjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stringsworking/Stringsworking.iml" filepath="$PROJECT_DIR$/Stringsworking/Stringsworking.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stringwork/Stringwork.iml" filepath="$PROJECT_DIR$/Stringwork/Stringwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other_Searching/TernarySearch.iml" filepath="$PROJECT_DIR$/Other_Searching/TernarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/courseModule/courseModule.iml" filepath="$PROJECT_DIR$/courseModule/courseModule.iml" />
     </modules>
   </component>
