@@ -12,19 +12,15 @@ public class sortzeros {
         int right = arr.length - 1;
 
         while (left < right) {
-            // Move left pointer to the right until 1 is found
-            if(arr[left] == 0 && left < right) {
-                left++;
+           if(arr[left]==1&&arr[right]==0){
+               swap(arr,left,right);
+               left++;
+               right--;
             }
-
-            // Move right pointer to the left until 0 is found
-            if (arr[right] == 1 && left < right) {
-                right--;
-            }
-
-            // Swap if left is less than right
-             if(left < right) {
-                swap(arr,left,right);
+           if(arr[left]!=1){
+               left++;
+           }if(arr[right]!=0){
+               right--;
             }
         }
     }

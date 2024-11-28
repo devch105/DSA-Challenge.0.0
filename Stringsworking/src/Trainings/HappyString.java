@@ -1,4 +1,4 @@
-package leetcode;
+package Trainings;
 
 import java.util.PriorityQueue;
 

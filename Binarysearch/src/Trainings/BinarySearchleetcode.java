@@ -1,4 +1,4 @@
-package leetcode;
+package Trainings;
 
 public class BinarySearchleetcode {
 

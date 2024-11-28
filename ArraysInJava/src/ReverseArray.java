@@ -12,6 +12,7 @@ public class ReverseArray {
     public static  void ReverseArr(int arr[]){
         int start=0;
         int end=arr.length-1;
+        int prr[]={2,3,4,56,45,7,77,6,45,5,44,4,};
         while (start<end){
             int temp=arr[start];
             arr[start]=arr[end];
